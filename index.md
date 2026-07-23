@@ -45,6 +45,16 @@ layout: default
 - FCS 重新计算 → PCS 编码 → SerDes 驱动
 - 最终时间线：**总延迟 51ns**
 
+### 4️⃣ [补充篇：交换机芯片进阶专题](补充篇——交换机芯片进阶专题.md)
+
+深入数据中心技术和芯片工程实战经验：
+
+- **数据中心技术**：PFC/ECN/DCQCN 无损网络、VXLAN隧道、INT带内遥测、EVPN
+- **芯片工程实战**：DFT可测性设计、Bring-up十步走、芯片调试手段、Errata分析
+- **性能指标**：RFC 2544测试、主流芯片选型对比(Tomahawk/Prestera/Tofino)
+- **补充协议**：802.1X、LLDP、EEE节能、sFlow/NetFlow、1588v2 PTP
+- **面试与工程思维**：经典面试题深度解答、5种工程思维
+
 ---
 
 ## 🎯 适用读者
