@@ -2,3 +2,8 @@ title: 以太网交换机芯片架构知识体系
 description: TCP/IP协议 · 包处理流水线 · 芯片整体架构 · 手把手从模拟到数字
 theme: jekyll-theme-cayman
 show_downloads: true
+encoding: utf-8
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false

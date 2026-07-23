@@ -1,0 +1,9 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Markdown files - preserve LF
+*.md text diff=markdown
+
+# Config files
+*.yml text
+*.yaml text
