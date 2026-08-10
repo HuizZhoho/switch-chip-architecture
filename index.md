@@ -74,6 +74,17 @@ layout: default
 - **补充协议**：802.1X、LLDP、EEE节能、sFlow/NetFlow、1588v2 PTP
 - **面试与工程思维**：经典面试题深度解答、5种工程思维
 
+### 5️⃣ [博通与Marvell芯片架构深度分析与行业综述](博通与Marvell交换机芯片架构深度分析与行业综述.md)
+
+**从芯片架构师视角的行业深度分析：**
+
+- **行业格局**：Broadcom(~70%) vs Marvell(~15%) vs NVIDIA/Intel/Realtek 市场分析
+- **Broadcom全系列拆解**：Tomahawk 5(51.2T) / Trident 4 / Jericho 3 的IP级架构
+- **Marvell全系列拆解**：Teralynx 8(P4可编程) / Prestera 98DX(Pipe架构) 的IP级架构
+- **逐项对比**：SerDes / PCS/MAC / 流水线 / TM/MMU / Fabric / CPU 六大IP模块深度对比
+- **收购历史**：Marvell收购Innovium/Cavium/Inphi对产品线的影响
+- **选型指南**：场景化芯片选型决策树 + 综合评价
+
 ---
 
 ## 🎯 适用读者
